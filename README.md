@@ -2,7 +2,7 @@
 
 ## Guided Tour of Machine Learning in Finance
 1. [Euclidean Distance Calculation](Euclidian_Distance_m1_ex1_v4-newV.ipynb)
-2. [Linear Regression](linear_regress_m1_ex2_v3.ipynb)
+2. [Linear Regression](linear_regress_m1_ex2_v4-newV.ipynb)
 3. [Tobit Regression](Tobit_regression_m1_ex3_v4.ipynb)
 4. [Bank defaults prediction using FDIC dataset](Bank_failure_m1_ex4_v3.ipynb)
 
